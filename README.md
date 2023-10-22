@@ -43,6 +43,9 @@ This dataset has 83 total columns, 132 of them being symptoms experienced by pat
 
 |_ demo.py [ code for laoding kaggle dataset, training & saving the model]
 
+|_ test.py [production code deployed using streamlit for user interface on AI
+
+
 |_ BlockChain Implementation/
     |_index.html
     |_package-lock.json
